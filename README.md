@@ -6,6 +6,8 @@ Exploring various programming languages by building and plotting the Mandelbrot 
 
 ## Zig
 
+Step-by-Step Guide: [Exploring Zig Programming Language with The Mandelbrot Set](https://www.rdiachenko.com/posts/zig/exploring-ziglang-with-mandelbrot-set/).
+
 Build, test and run:
 
 ```shell
